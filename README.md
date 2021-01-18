@@ -1,6 +1,6 @@
-# data_from_server_app
+# JSON Reader Test App
 
-A new Flutter application.
+ทดสอบแสดงผลข้อมูลจาก API ของ Advice.
 
 ## Getting Started
 
